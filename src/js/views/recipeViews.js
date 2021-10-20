@@ -1,7 +1,7 @@
 import View from './View.js';
 // import icons from '../../img/icons.svg'; //PARCEL 1
 import icons from 'url:../../img/icons.svg'; //PARCEL 2 importing icons from dis folder and then inserting them in innerhtml
-import { Fraction } from 'fractional';
+import { Fraction } from 'fraction.js';
 // console.log(Fraction);
 
 class RecipeView extends View {
