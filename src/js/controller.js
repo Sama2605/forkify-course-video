@@ -6,8 +6,8 @@ import 'regenerator-runtime/runtime'; //for polyfilling async/await
 import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
 import paginationView from './views/paginationView.js';
-import bookmarksView from './views/bookmarksView.js';
-import AddRecipeView from './views/addRecipeView.js';
+import bookmarksView from './views/BookmarksView.js';
+import addRecipeView from './views/addRecipeView.js';
 import addRecipeView from './views/addRecipeView.js';
 
 if (module.hot) {
